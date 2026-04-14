@@ -15,6 +15,6 @@ export _Z_DATA="$XDG_DATA_HOME/z"
 export HISTFILE="$XDG_STATE_HOME/zsh/history"
 
 # Proxy
-export http_proxy="http://127.0.0.1:7890"
-export https_proxy="http://127.0.0.1:7890"
-export all_proxy="socks5://127.0.0.1:7890"
+# export http_proxy="http://127.0.0.1:7890"
+# export https_proxy="http://127.0.0.1:7890"
+# export all_proxy="socks5://127.0.0.1:7890"
